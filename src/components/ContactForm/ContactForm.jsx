@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { nanoid } from 'nanoid';
-import PhoneNumber from 'PhoneNumber/PhoneNumber';
+import PhoneNumber from 'components/PhoneNumber/PhoneNumber';
 import {
   LeftStyledList,
   StyledButton,
